@@ -1,0 +1,19 @@
+I know the things
+------------------
+google font
+font awesome
+transition (kom)
+
+
+
+
+
+
+
+not learning yet
+------------------------
+before
+animation
+variable
+media-query
+
